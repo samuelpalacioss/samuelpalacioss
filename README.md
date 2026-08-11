@@ -6,7 +6,7 @@ README.md
 
 - 🔭 I’m currently working on a SaaS designed to  **streamline workflows, save time, and simplify payment management with built-in reminders.**
 
-- 🌱 I’m currently diving **deeper into Go and Rust.**
+- 🌱 I’m currently diving **deeper into Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
